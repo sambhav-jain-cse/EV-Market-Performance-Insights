@@ -1,0 +1,22 @@
+Project: Electric Vehicle Market Performance & Insights
+
+Developer: Sambhav Jain
+
+Tools Used:
+
+* Tableau Public
+* Data Visualization
+* Data Analysis
+
+Project Features:
+
+* EV Market Performance KPIs
+* Market Share by Manufacturer
+* EV Category Distribution
+* Customer Ratings by Manufacturer
+* EV Distribution by Country
+* Battery Technology Analysis
+* Average Driving Range
+
+Live Dashboard:
+https://public.tableau.com/app/profile/sambhav.jain8837/viz/EVMarketPerformanceInsights_17931642439550/EVMarketPerformanceDashboard
